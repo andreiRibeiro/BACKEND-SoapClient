@@ -5,7 +5,7 @@ Este projeto simula um cliente utilizando uma API Rest para consultar dados em u
 
 Nesta integração este microserviço converte os dados enviados via requisição (request) em objeto SOAP para o web-service https://github.com/andreiRibeiro/soap-server que irá processar esta requisição SOAP e devolver a este microserviço (response) os dados solicitados.
 
-1) Eh possível via API solictar dados de um cliente.
+1) Eh possível via API solictar dados de um cliente infomando neste caso o id.
 
 ![](src/imagens/soapClientConsulta.png)
 
