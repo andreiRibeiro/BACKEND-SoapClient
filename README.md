@@ -1,4 +1,4 @@
-# Soap-client
+# Soap-Client
 Microserviço responsável por integrar informações Rest com web-service SOAP
 
 Este projeto simula um cliente utilizando uma API Rest para consultar dados em um web-service SOAP.
