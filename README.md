@@ -17,7 +17,7 @@ Nesta integração este microserviço converte os dados enviados via requisiçã
 
 ![](src/imagens/soapClientSecurity.png)
 
-4) Caso usuário e/ou senha do microserviço estejam inválidos.
+4) Caso usuário e/ou senha do microserviço estejam inválidos, o web-service retornará uma mensagem de erro.
 
 ![](src/imagens/soapClientPasswd.png)
 
