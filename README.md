@@ -5,7 +5,7 @@ Este projeto simula um cliente utilizando uma API Rest para consultar dados em u
 
 Nesta integração este microserviço captura os dados enviados via requisição (request) e aplica as regras de negócio necessárias, para posteriormente converter os dados em objeto SOAP para envio ao o web-service https://github.com/andreiRibeiro/BACKEND-SoapServer que irá processar esta requisição SOAP e devolver a este microserviço (response) os dados solicitados.
 
-#### 1) Eh possível via API solicitar o nome de um cliente infomando neste caso o id.
+#### 1) Eh possível via API solicitar o nome de um cliente infomando o id.
 
 ![](src/imagens/soapClientConsulta.png)
 
