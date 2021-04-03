@@ -1,6 +1,8 @@
 # Soap-Client
 Microserviço responsável por integrar informações Rest com web-service SOAP.
 
+OPA
+
 Este projeto simula um cliente utilizando uma API Rest para consultar dados em um web-service SOAP.
 
 Nesta integração este microserviço captura os dados enviados via requisição (request) e aplica as regras de negócio necessárias, para posteriormente converter os dados em objeto SOAP para envio ao o web-service https://github.com/andreiRibeiro/BACKEND-SoapServer que irá processar esta requisição SOAP e devolver a este microserviço (response) os dados solicitados.
